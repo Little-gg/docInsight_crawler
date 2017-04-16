@@ -91,3 +91,10 @@ ENV/
 .ropeproject
 
 # Created by .ignore support plugin (hsz.mobi)
+
+# Project related
+.tags
+.tags1
+docs
+docs_1
+.DS_Store

@@ -12,5 +12,6 @@ class JudgementItem(Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     url = Field()
+    publish_date = Field()
     title = Field()
     content = Field()
