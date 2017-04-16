@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 ### Python template
+=======
+>>>>>>> ca5c3884b0822fb86fa7cc07b9f80262f245da1f
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -54,8 +57,14 @@ coverage.xml
 *.log
 local_settings.py
 
+<<<<<<< HEAD
 # Flask instance folder
 instance/
+=======
+# Flask stuff:
+instance/
+.webassets-cache
+>>>>>>> ca5c3884b0822fb86fa7cc07b9f80262f245da1f
 
 # Scrapy stuff:
 .scrapy
@@ -81,14 +90,18 @@ celerybeat-schedule
 # virtualenv
 venv/
 ENV/
+<<<<<<< HEAD
 /.idea
 /.setting
+=======
+>>>>>>> ca5c3884b0822fb86fa7cc07b9f80262f245da1f
 
 # Spyder project settings
 .spyderproject
 
 # Rope project settings
 .ropeproject
+<<<<<<< HEAD
 
 # Created by .ignore support plugin (hsz.mobi)
 
@@ -98,3 +111,5 @@ ENV/
 docs
 docs_1
 .DS_Store
+=======
+>>>>>>> ca5c3884b0822fb86fa7cc07b9f80262f245da1f
